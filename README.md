@@ -23,56 +23,27 @@ My projects span power systems analytics, embedded AI, network tools, kernel man
 ```
 | **AI & Tools** | Machine learning pipelines, TensorFlow/PyTorch basics, Predictive modeling, Algorithm development | 
 ```
-```
+
 ---
 
 ## 💼 Selected Professional Projects (Work)
 
 | Project | Description | Stack | Repo Link |
 |---------|-------------|-------|-----------|
-| **Grid Analysis System** | Real-time monitoring and analysis of the Chilean electricity grid. Handles load flow calculations and grid stability metrics. | Python • DigSilent • PostgreSQL • Docker | 🔒 Private |
-| **Power Flow Optimization** | Automated optimization tools for power dispatch and load balancing in national grid operations. | MATLAB • Python • .NET Core | 🔒 Private |
-| **Data Processing Pipeline** | High-performance data pipeline for processing telemetry and SCADA data from substations across Chile. | Python • Linux • SQL • Redis | 🔒 Private |
+| **ELCC Implementation** | Computacional implementation and impact analisys of the ELCC Suficiency Power proposal to replace the current method. | Python | 🔒 Private |
+| **Automation of short-term market non-compliance letter generation** | I developed software to generate letters related to non-compliance in the Chilean short-term market, improving CEN’s response capacity and reducing the process by approximately 30 hours per month. | Streamlit • Python | 🔒 Private |
+| **Co-Founder of the CEN Citizen Developer initiative** | The initiative actively seeks to promote the availability of programming tools while encouraging the documentation of existing and future developments through GitHub. | GitHub | 🔒 Private |
 
 ---
-```
+
 ## 🚀 Personal R&D Projects
-```
-| Project | Tech Highlights | Repo Link |
+
+| Project | Tech Highlights | Stack | Repo Link |
 |---------|-----------------|-----------|
-| **Power Systems Toolkit** | MATLAB/Python hybrid toolkit for power system analysis and visualization | [🔗 Link](#) |
-| **Grid Simulator** | Custom grid simulation tool with real-time visualization and scenario analysis | [🔗 Link](#) |
-| **Energy Analytics Dashboard** | Interactive dashboard for energy data visualization and forecasting | [🔗 Link](#) |
-| **Automation Scripts Collection** | Linux automation scripts for system administration and deployment | [🔗 Link](#) |
-| **Network Monitor** | Real-time network monitoring tool with alerting capabilities | [🔗 Link](#) |
-```
----
-
-## 🎯 Systems Architecture Snapshot
-
-```
-Input: Power Grid Data / SCADA / Real-time Telemetry
-         ↓
-    Processing Layer (Python/MATLAB)
-         ↓
-    Analysis Engine (DigSilent/Custom Algorithms)
-         ↓
-Output: Reports / Dashboards / Control Signals
-```
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on projects involving:
-- ⚡ Power systems analysis and optimization
-- 🐍 Python-based engineering solutions
-- 🖥️ Linux system administration and automation
-- 📊 Data-driven decision making for critical infrastructure
-
-Feel free to explore my repositories and reach out!
-
----
+| **MAAT BPM** | A comprehensive, modern Business Process Management system built with C# and .NET 8, featuring a clean architecture, workflow engine, and AI integration capabilities. | .NET | 🔒 Private |
+| **Scout ATS** | A full-stack Applicant Tracking System (ATS) with FastAPI backend and React frontend for managing recruitment projects and tracking candidate progress. | Typescript, JS | 🔒 Private |
+| **Plasma Mobile on Raspberry Pi 4** | The ONLY working one command to install Plasma Mobile on Raspberry Pi 4 - Proven after 2 years of research and testing, still waiting for 4G network integration. | BASH, Linux | [🔗 Link](https://github.com/Philip-McColl-sd/Dustie_Plasma_Mobile.git) |
+| **OOP Chrash Course** | I have delivered several courses on object-oriented programming for both CEN and UTFSM, aimed at helping engineers improve the structure and organization of their software.| OOP, Python | None |
 
 <div align="center">
 
