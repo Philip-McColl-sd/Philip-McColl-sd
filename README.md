@@ -16,12 +16,14 @@ My projects span power systems analytics, embedded AI, network tools, kernel man
 
 | Category | Technologies |
 |----------|-------------|
-| **Power Systems & Simulation** | DigSilent PowerFactory, MATLAB/Simulink, Power system analysis, Load flow studies, Grid stability analysis, Transient analysis |
-| **Languages & Frameworks** | Python (NumPy, Pandas, Matplotlib, SciPy), C# (.NET, ASP.NET Core, WPF), SQL, Bash/Shell scripting |
+| **Power Systems & Simulation** | DigSilent PowerFactory, MATLAB/Simulink, Power system analysis, Electrical generation data analysis |
+| **Languages & Frameworks** | Python (NumPy, Pandas, Matplotlib, SciPy), C# (.NET), SQL, Bash/Shell scripting |
 | **Systems & Infrastructure** | Linux (Ubuntu, RHEL, Arch), Docker, Git, CI/CD, System administration, Shell scripting, Automation |
-| **Data & Analysis** | Data science, Scientific computing, Numerical methods, Optimization algorithms, Visualization, Time-series analysis |
-| **AI & Tools** | Machine learning pipelines, TensorFlow/PyTorch basics, Predictive modeling, Algorithm development |
-
+| **Data & Analysis** | Data science, Numerical methods, Optimization algorithms, Visualization |
+```
+| **AI & Tools** | Machine learning pipelines, TensorFlow/PyTorch basics, Predictive modeling, Algorithm development | 
+```
+```
 ---
 
 ## 💼 Selected Professional Projects (Work)
@@ -33,7 +35,7 @@ My projects span power systems analytics, embedded AI, network tools, kernel man
 | **Data Processing Pipeline** | High-performance data pipeline for processing telemetry and SCADA data from substations across Chile. | Python • Linux • SQL • Redis | 🔒 Private |
 
 ---
-
+```
 ## 🚀 Personal R&D Projects
 ```
 | Project | Tech Highlights | Repo Link |
