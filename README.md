@@ -36,7 +36,7 @@ My projects span power systems analytics, embedded AI, network tools, kernel man
 ## 🚀 Personal R&D Projects
 
 | Project | Tech Highlights | Stack | Repo Link |
-|---------|-----------------|-----------|
+|---------|-----------------|-------|-----------|
 | **MAAT BPM** | A comprehensive, modern Business Process Management system built with C# and .NET 8, featuring a clean architecture, workflow engine, and AI integration capabilities. | .NET | 🔒 Private |
 | **Scout ATS** | A full-stack Applicant Tracking System (ATS) with FastAPI backend and React frontend for managing recruitment projects and tracking candidate progress. | Typescript, JS | 🔒 Private |
 | **Plasma Mobile on Raspberry Pi 4** | The ONLY working one command to install Plasma Mobile on Raspberry Pi 4 - Proven after 2 years of research and testing, still waiting for 4G network integration. | BASH, Linux | [🔗 Link](https://github.com/Philip-McColl-sd/Dustie_Plasma_Mobile.git) |
