@@ -20,9 +20,6 @@ My projects span power systems analytics, embedded AI, network tools, kernel man
 | **Languages & Frameworks** | Python (NumPy, Pandas, Matplotlib), C# (.NET), SQL, Bash/Shell scripting |
 | **Systems & Infrastructure** | Linux (Ubuntu, Void, Arch), Docker, Git, System administration, Shell scripting, Automation |
 | **Data & Analysis** | Data science, Numerical methods, Optimization algorithms, Visualization |
-```
-| **AI & Tools** | Machine learning pipelines, TensorFlow/PyTorch basics, Predictive modeling, Algorithm development | 
-```
 
 ---
 
